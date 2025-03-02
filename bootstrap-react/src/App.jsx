@@ -6,10 +6,14 @@ function App() {
   return (
     <div>
       {/* Header secession */}
-      <div className="container">
-      <div>
-        <Navigation/>
+      <div className='shadow-lg p-2 mb-4 bg-body-tertiary rounded'>
+        <div className="container">
+            <div className=''>
+              <Navigation/>
+            </div>
+        </div>
       </div>
+    <div>
       {/* Hero secession */}
       <div className='container'>
         <Hero/>
