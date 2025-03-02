@@ -2,6 +2,7 @@ import React from 'react';
 import Navigation from './Components/Navigation';
 import Hero from './Components/Hero';
 import Cards from './Components/Cards';
+import About from './Components/About';
 function App() {
   return (
     <div>
@@ -20,12 +21,12 @@ function App() {
       </div>
     </div>
     <br /> <br />
-    <div className='mt-4'
+    <div className='mt-4 pb-4'
     style={{
       backgroundColor: '#93c5fd'
     }}>
 
-      {/* Cards secession */}
+      {/* Projects secession */}
     <br /> <br />
       <div className='container' 
       style={{
@@ -34,6 +35,21 @@ function App() {
         <Cards/>
       </div>
     </div>
+
+      {/* about secession */}
+    <div>
+      <About />
+    </div>
+
+      {/* FAQ's secession */}
+
+      {/* Contect us secession */}
+
+      {/* Footer secession */}
+
+
+
+
     </div>
   );
 }

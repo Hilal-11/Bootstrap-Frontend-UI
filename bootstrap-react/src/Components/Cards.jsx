@@ -16,9 +16,12 @@ function Cards() {
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
-            <div>
-                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    Live demo Project
+            <div className='d-flex justify-content-between'>
+                <button type="button" class="px-4 btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    Live demo 
+                </button>
+                <button type="button" class="px-4 btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    Github 
                 </button>
                 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
@@ -47,9 +50,12 @@ function Cards() {
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
-            <div>
+            <div className='d-flex justify-content-between'>
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    Live demo Project
+                    Live demo 
+                </button>
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    Github 
                 </button>
                 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
@@ -78,9 +84,12 @@ function Cards() {
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
             </div>
-            <div>
+            <div className='d-flex justify-content-between'>
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    Live demo Project
+                    Live demo 
+                </button>
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    Github 
                 </button>
                 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
@@ -109,9 +118,12 @@ function Cards() {
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
-            <div>
+            <div className='d-flex justify-content-between'>
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    Live demo Project
+                    Live demo 
+                </button>
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    Github 
                 </button>
                 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
@@ -140,9 +152,12 @@ function Cards() {
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
-            <div>
+            <div className='d-flex justify-content-between'>
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    Live demo Project
+                    Live demo 
+                </button>
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    Github 
                 </button>
                 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
@@ -171,9 +186,12 @@ function Cards() {
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
-            <div>
+            <div className='d-flex justify-content-between'>
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    Live demo Project
+                    Live demo 
+                </button>
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    Github 
                 </button>
                 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
