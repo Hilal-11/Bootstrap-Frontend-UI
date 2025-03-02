@@ -42,7 +42,7 @@ function Cards() {
         </div>
         <div className="col">
             <div className="card p-4">
-            <img src="https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-multipurpose.png" className="card-img-top" alt="..."/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwmx5ZcdJKpXeozr0V_Eo4mZgKUNfpOBhlA&s" className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -73,7 +73,7 @@ function Cards() {
         </div>
         <div className="col">
             <div className="card p-4">
-            <img src="https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-multipurpose.png" className="card-img-top" alt="..."/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUg7D1Vj4j7sSA0CA36MsZqzebXo5fFvw8g&s" className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
@@ -135,7 +135,7 @@ function Cards() {
         </div>
         <div className="col">
             <div className="card p-4">
-            <img src="https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-multipurpose.png" className="card-img-top" alt="..."/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThZbY2fPdjlP9HQANhDW0IsFv0T00SJl9whw&s" className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -166,7 +166,7 @@ function Cards() {
         </div>
         <div className="col">
             <div className="card p-4">
-            <img src="https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-multipurpose.png" className="card-img-top" alt="..."/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS568OdgGOG-00aZ2tv53qjCfiBJy5gb-43-A&s" className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
