@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './Water.css'
 function Cards() {
   return (
     <div className=''
@@ -10,7 +10,7 @@ function Cards() {
 
         >
         <div className="col">
-            <div className="card p-4">
+            <div className="card p-4 waterdrop2">
             <img src="https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-multipurpose.png" className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">Card title</h5>
@@ -44,7 +44,7 @@ function Cards() {
             </div>
         </div>
         <div className="col">
-            <div className="card p-4">
+            <div className="card p-4 waterdrop2">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwmx5ZcdJKpXeozr0V_Eo4mZgKUNfpOBhlA&s" className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">Card title</h5>
@@ -78,7 +78,7 @@ function Cards() {
             </div>
         </div>
         <div className="col">
-            <div className="card p-4">
+            <div className="card p-4 waterdrop2">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUg7D1Vj4j7sSA0CA36MsZqzebXo5fFvw8g&s" className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">Card title</h5>
@@ -112,7 +112,7 @@ function Cards() {
             </div>
         </div>
         <div className="col">
-            <div className="card p-4">
+            <div className="card p-4 waterdrop2">
             <img src="https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-multipurpose.png" className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">Card title</h5>
@@ -146,7 +146,7 @@ function Cards() {
             </div>
         </div>
         <div className="col">
-            <div className="card p-4">
+            <div className="card p-4 waterdrop2">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThZbY2fPdjlP9HQANhDW0IsFv0T00SJl9whw&s" className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">Card title</h5>
@@ -180,7 +180,7 @@ function Cards() {
             </div>
         </div>
         <div className="col">
-            <div className="card p-4">
+            <div className="card p-4 waterdrop2">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS568OdgGOG-00aZ2tv53qjCfiBJy5gb-43-A&s" className="card-img-top" alt="..."/>
             <div className="card-body">
                 <h5 className="card-title">Card title</h5>

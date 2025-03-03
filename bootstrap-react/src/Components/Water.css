@@ -1,0 +1,32 @@
+.water {
+    background-color: wheat;
+    width: 400px;
+    height: 400px;
+    border-radius: 25% 75% 44% 56% / 29% 20% 80% 71%;
+    box-shadow: inset 10px 10px 15px rgba(0,0,0,0.05), 15px 25px 20px rgba(0,0,0,.1) , 15px 20px 20px rgba(0,0,0,0.05) , inset -10px -10px 15px rgba(255,255,2 55, 0.9);
+}
+
+.waterdrop1 {
+    width: 400px;
+    height: 400px;
+    /* background: rgba(222,222,0,.05);  */
+    background: rgba(255,255,255,.9); 
+    /* border-radius: 50% 50% 50% 50% / 50% 50% 50% 50% ; */
+    border-radius: 30px;
+    box-shadow: inset 10px 15px 20px rgba(0,0,0,0.2),
+    5px 5px 15px rgba(0,0,0,.1),
+    10px 10px 15px rgba(0,0,0,0.2),
+     -20px -10px 25px rgba(255,255,255,.9);
+} 
+
+.waterdrop2 {
+
+    background: rgba(255,255,255,.9); 
+    /* border-radius: 50% 50% 50% 50% / 50% 50% 50% 50% ; */
+    border-radius: 16px;
+    box-shadow: inset 10px 15px 20px rgba(0,0,0,0.2),
+    5px 5px 15px rgba(0,0,0,.1),
+    10px 10px 15px rgba(0,0,0,0.2),
+     -20px -10px 25px rgba(255,255,255,.9);
+}
+

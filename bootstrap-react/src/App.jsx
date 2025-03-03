@@ -6,6 +6,7 @@ import About from './Components/About';
 import FAQ from './Components/FAQ';
 import Carasole from './Components/Carasole';
 import Contect from './Components/Contect';
+import Water from './Components/Water';
 function App() {
   return (
     <div>
@@ -64,10 +65,12 @@ function App() {
     <div>
       <Contect/>
     </div>
-
+    <div className='container pt-4 mt-4 d-flex justify-content-center'>
+      <Water />
+    </div>
       {/* Footer secession */}
 
-
+    <br /><br />
 
 
     </div>
