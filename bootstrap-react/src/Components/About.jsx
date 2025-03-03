@@ -2,12 +2,18 @@ import React from 'react'
 
 function About() {
   return (
-    <div className='container mt-4 pt-4'>
-        <h1 className='text-center'>
-            About Secession
-            
+    <div className='container mt-4 pt-2'>
+        <h1 className='text-center fw-bold'
+            style={{
+                fontSize: '2.6rem'
+            }}
+        >
+            About Me
         </h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis dolor at natus. Soluta sint beatae libero unde quis cum. Voluptatum quam nemo distinctio praesentium! Perferendis est illo explicabo expedita maxime, voluptas sequi ipsa consequatur veritatis harum reiciendis odit debitis facilis?</p>
+        <p style={{
+            textAlign: '',
+            padding: '0px 0px 0px 5px'
+        }}>Highly skilled and detail oriented Frontend Developer with a strong command of modern web technologies,including HTML, CSS, JavaScript, TypeScript, React, Redux, Zod, and Routing. Experienced in building responsive, high-performance, and scalable web applications with a keen focus on user experience (UX) and interface (UI) design. Proficient in Git and GitHub for version control and collaboration, ensuring efficient code management and teamwork.</p>
     </div>
   )
 }

@@ -3,6 +3,7 @@ import Navigation from './Components/Navigation';
 import Hero from './Components/Hero';
 import Cards from './Components/Cards';
 import About from './Components/About';
+import FAQ from './Components/FAQ';
 function App() {
   return (
     <div>
@@ -42,6 +43,12 @@ function App() {
     </div>
 
       {/* FAQ's secession */}
+    <div className='pb-4' 
+    style={{
+      backgroundColor: 'darkblue'
+    }}>
+      <FAQ />
+    </div>
 
       {/* Contect us secession */}
 
