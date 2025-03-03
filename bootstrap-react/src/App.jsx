@@ -4,6 +4,8 @@ import Hero from './Components/Hero';
 import Cards from './Components/Cards';
 import About from './Components/About';
 import FAQ from './Components/FAQ';
+import Carasole from './Components/Carasole';
+import Contect from './Components/Contect';
 function App() {
   return (
     <div>
@@ -47,10 +49,21 @@ function App() {
     style={{
       backgroundColor: 'darkblue'
     }}>
+      <br /><br /><br />
       <FAQ />
+      <br /><br /><br />
     </div>
 
-      {/* Contect us secession */}
+      {/* Carasole us secession */}
+      <br /><br />
+    <div>
+      <Carasole />
+    </div>
+    {/* contect us secession */}
+    <br /><br />
+    <div>
+      <Contect/>
+    </div>
 
       {/* Footer secession */}
 
